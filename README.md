@@ -1,7 +1,7 @@
 ## Change Text Color
 
 ### App Description
-This is a simple one page with a button that can change the text color.
+This is a simple one page app with a button that can change the text color to orange.
 
 ### App Walk-though
 ![](https://i.imgur.com/VYoPJCu.gif)
