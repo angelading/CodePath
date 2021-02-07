@@ -1,54 +1,24 @@
-# Pre-work - *Change Text Color*
+## Change Text Color
 
-**Change Text Color** is a tip calculator application for iOS.
+### App Description
+`TODO://` Add app description
 
-Submitted by: **Yi Ding**
+### App Walk-though
+https://camo.githubusercontent.com/bf1fca32a341019841efce6867a81e9477e1f6a455888040ab8e15f039fbe440/68747470733a2f2f692e696d6775722e636f6d2f4e30724a6b6d4d2e676966
 
-Time spent: **1** hours spent in total
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
-## User Stories
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
-The following **required** functionality is complete:
-
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/N0rJkmM.gif)
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+### Optional User Stories
+- [ ] 1. User can tap a button to change the color of the background view.
+- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [ ] 3. User can tap on the background view to reset all views to default settings.
+- [ ] 4. User can update the label text with custom text entered into the text field.
+   - [ ] a. User can enter text into a text field using the keyboard.
+   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
+   - [ ] c. If the text field is empty, update label with default text string.
+   - [ ] d. The keyboard is dismissed after the button has been tapped.
