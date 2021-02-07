@@ -4,7 +4,7 @@
 This is a simple one page with a button that can change the text color.
 
 ### App Walk-though
-![](https://i.imgur.com/HC7mBGg.gif)
+![](https://i.imgur.com/VYoPJCu.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
