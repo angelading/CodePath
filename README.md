@@ -1,12 +1,10 @@
 ## Change Text Color
 
 ### App Description
-`TODO://` Add app description
+This is a simple one page with a button that can change the text color.
 
 ### App Walk-though
-https://camo.githubusercontent.com/bf1fca32a341019841efce6867a81e9477e1f6a455888040ab8e15f039fbe440/68747470733a2f2f692e696d6775722e636f6d2f4e30724a6b6d4d2e676966
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+![](https://i.imgur.com/HC7mBGg.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
